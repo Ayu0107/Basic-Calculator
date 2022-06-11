@@ -5,4 +5,4 @@ It also has a Clear button which clears the text area and an equal to button whi
 
 ![image](https://user-images.githubusercontent.com/62741870/173178112-4cdb7e65-6f6a-4634-b751-0d1d18b899cf.png)
 
-You can view this calculator: https://ayu0107.github.io/Basic-Calculator/
+The link for the calculator is https://ayu0107.github.io/Basic-Calculator/
