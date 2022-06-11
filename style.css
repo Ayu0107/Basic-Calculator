@@ -1,0 +1,10 @@
+.box{
+    margin-top: 150px !important;
+    padding: 30px;
+    background-color: lightgrey;
+}
+
+button, input{
+    width: 100%;
+    font-weight: bolder;
+}
